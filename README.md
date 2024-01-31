@@ -1,4 +1,4 @@
-**Readme - Previsão de Preços de Imóveis em São Paulo** 🏡📊
+**Previsão de Preços de Imóveis em São Paulo** 🏡📊
 
 Bem-vindo ao projeto de previsão de preços de imóveis em São Paulo! Este experimento utiliza Machine Learning para estimar os valores de imóveis com base em diferentes características. Aqui está um guia rápido para começar:
 
